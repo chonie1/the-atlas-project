@@ -29,30 +29,17 @@ body {
   background: url("background.png") fixed center;
   background-size: cover;
   background-blend-mode: ligthen;
-  text-align: justify
 }
 
 body {
-  display: -ms-flexbox;
-  display: flex;
-  color: #fff;
-  
+  color: #fff; 
 }
-
-.cover-container {
-  max-width: 42em;
-}
-
 
 /*
  * Header
  */
 .masthead {
   margin-bottom: 2rem;
-}
-
-.masthead-brand {
-  margin-bottom: 0;
 }
 
 .nav-masthead .nav-link {

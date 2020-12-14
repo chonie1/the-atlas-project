@@ -1,12 +1,47 @@
-h1
-{
-    text-transform: uppercase;
+.team-section{
+    padding: 40px 200px;
 }
-h2
-{
-    text-transform: uppercase;
+
+.image{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
 }
-h3
-{
-    text-transform: uppercase;
+
+.overlay{
+    position: absolute;
+    top:0;
+    bottom:0;
+    height:100%;
+    width:100%;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color:#A9A9A9;
+    border-radius:50%;
 }
+
+.container{
+    position: relative;
+    width:250px;
+    height: 250px;
+}
+.container:hover .overlay{
+    opacity: 30%;
+}
+
+.text{
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    position:relative;
+  }
