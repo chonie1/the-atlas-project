@@ -3,4 +3,4 @@
 In progress.
 
 Click here to learn more: 
-https://connie-ho.github.io/the-atlas-project/
+https://chonie1.github.io/the-atlas-project/
