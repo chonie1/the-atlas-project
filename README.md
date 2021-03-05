@@ -1,4 +1,4 @@
 # the-atlas-project
 
 Click here to learn more: 
-https://chonie1.github.io/the-atlas-project/
+https://connie-ho.github.io/the-atlas-project/
